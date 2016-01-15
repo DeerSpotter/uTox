@@ -3,4 +3,6 @@ Demo of it in action: http://www.codeproject.com/KB/IP/371955/rtaVideoStreamer-d
 Source Code: http://www.codeproject.com/KB/IP/371955/rtaVideoStreamer-src.zip
 
 The Way it works is it creates a link that you share to the third party, this can be automatically coded to be opened inside Utox or a default browser.
-Then is streams really well.
+Then thiss streams really well.
+
+to integrate a stream player: http://www.codeproject.com/Articles/885869/Stream-Player-control
